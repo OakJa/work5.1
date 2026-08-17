@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/moith/Downloads/work5_product_finder_fixed/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 32, height: 32 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAIC,QAAQ;AAAG"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/moith/Downloads/work5_product_finder_fixed/app/page.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function Home() {\n  return (\n    <main className=\"home-shell\">\n      <p className=\"eyebrow\">Week 05</p>\n      <h1>Product Finder</h1>\n      <p>ระบบแสดงรายการสินค้า กรองข้อมูล และจัดการ URL State</p>\n      <Link className=\"primary-link\" href=\"/products\">\n        เปิด Product Finder →\n      </Link>\n    </main>\n  );\n}\n"],"names":["Home","className","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;;0BACd,8OAAC;gBAAEA,WAAU;0BAAU;;;;;;0BACvB,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;0BACH,8OAAC,0LAAI;gBAACA,WAAU;gBAAeC,MAAK;0BAAY;;;;;;;;;;;;AAKtD"}}]
+}
